@@ -1,6 +1,6 @@
 build:
   id: 101010
   version: 1.0.0.0
-  name: "dev-git-production-build"
-  type: "git development build"
+  name: "default-git-production-build"
+  type: "git default build"
   
