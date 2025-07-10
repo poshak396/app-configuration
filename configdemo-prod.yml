@@ -1,0 +1,5 @@
+build:
+  id: 101010
+  version: 1.0.0.0
+  name: "default-git-production-build"
+  type: "git production build"
